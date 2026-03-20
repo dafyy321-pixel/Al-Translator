@@ -6,7 +6,7 @@
 - 前端：Next.js（API Route 作为后端）
 - 模型：ModelScope GLM-5
 
-![界面预览](https://via.placeholder.com/800x400?text=Translation+Assistant+UI)
+![界面预览](/image.png)
 
 ## 功能特点
 
